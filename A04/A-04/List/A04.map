@@ -1,0 +1,19 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+SECOND_ONES                                                       0x0260       2
+DP                                                                0x0262       1
+convert                                                           0x0263      10
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+HOUR_TENS                                                         R4,R5        2
+HOUR_ONES                                                         R6,R7        2
+MINUTE_TENS                                                       R8,R9        2
+MINUTE_ONES                                                       R10,R11      2
+SECOND_TENS                                                       R12,R13      2

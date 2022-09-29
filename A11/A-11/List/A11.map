@@ -1,0 +1,29 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+s2                                                                0x026E       2
+s3                                                                0x0270       2
+s4                                                                0x0272       2
+s5                                                                0x0274       2
+s6                                                                0x0276       2
+_base_y                                                           0x0278       4
+_lcd_y                                                            0x027C       1
+_lcd_maxx                                                         0x027D       1
+_seed                                                             0x027E       4
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+_hour                                                             R5           1
+_min                                                              R4           1
+_sec                                                              R7           1
+week_day                                                          R6           1
+_day                                                              R9           1
+_month                                                            R8           1
+_year                                                             R11          1
+s1                                                                R12,R13      2
+_lcd_x                                                            R10          1
