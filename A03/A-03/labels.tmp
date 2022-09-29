@@ -1,0 +1,54 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32</DEVICE>
+ <WORKING_DIR>C:\Users\ali_s\Desktop\AVR Projects\A-03</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>19</LINE></MAIN>
+  <TIMER0FUNC><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>182</LINE></TIMER0FUNC>
+  <TIMER1FUNC><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>190</LINE></TIMER1FUNC>
+  <DISPLY><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>61</LINE></DISPLY>
+  <D1><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>70</LINE></D1>
+  <D2><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>77</LINE></D2>
+  <D4><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>80</LINE></D4>
+  <D3><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>87</LINE></D3>
+  <H1><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>90</LINE></H1>
+  <CONVERT><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>130</LINE></CONVERT>
+  <H2><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>99</LINE></H2>
+  <H3><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>108</LINE></H3>
+  <H4><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>117</LINE></H4>
+  <C1><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>136</LINE></C1>
+  <C2><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>141</LINE></C2>
+  <C3><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>146</LINE></C3>
+  <C4><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>151</LINE></C4>
+  <C5><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>156</LINE></C5>
+  <C6><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>161</LINE></C6>
+  <C7><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>166</LINE></C7>
+  <C8><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>171</LINE></C8>
+  <C9><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>176</LINE></C9>
+  <C10><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>179</LINE></C10>
+  <DO><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>187</LINE></DO>
+  <LED><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>196</LINE></LED>
+  <DS1><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>226</LINE></DS1>
+  <DS0><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>206</LINE></DS0>
+  <INCREMENT><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>214</LINE></INCREMENT>
+  <GO2><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>221</LINE></GO2>
+  <DECREMENT><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>235</LINE></DECREMENT>
+  <GO1><FILE>C:\Users\ali_s\Desktop\AVR Projects\A-03\A-03.asm</FILE><LINE>242</LINE></GO1>
+ </LABELS>
+</ASSEMBLER_INFO>

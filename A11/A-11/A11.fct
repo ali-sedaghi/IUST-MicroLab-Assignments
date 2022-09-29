@@ -1,0 +1,3 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"A11.c" LINE:20
+rtc_get_date DSTACK_USAGE:8 DSTACK_LEVEL:8 FILE:"D:\System\Programs\cvavr2\lib\ds1307.lib" LINE:76
+bcd2bin DSTACK_USAGE:1 DSTACK_LEVEL:9 FILE:"D:\System\Programs\cvavr2\lib\bcd.lib" LINE:10

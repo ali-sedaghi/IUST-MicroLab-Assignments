@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:536D0A2C
+NODE:I LEVEL:0 LINE:6 "D:\System\Programs\cvavr2\inc\mega32.h"
+NODE:I LEVEL:0 LINE:7 "D:\System\Programs\cvavr2\inc\delay.h"
+NODE:V LEVEL:0 LINE:9 "Lines -> R5"
+NODE:C LEVEL:0 LINE:10 "image_code -> RAM:????"
+NODE:F LEVEL:0 LINE:96 "main(void)"

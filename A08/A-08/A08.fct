@@ -1,0 +1,4 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"A08.c" LINE:42
+ftoa DSTACK_USAGE:13 DSTACK_LEVEL:13 FILE:"D:\System\Programs\cvavr2\lib\stdlib.lib" LINE:959
+floor DSTACK_USAGE:4 DSTACK_LEVEL:17 FILE:"D:\System\Programs\cvavr2\lib\math.lib" LINE:659
+ftrunc DSTACK_USAGE:4 DSTACK_LEVEL:21 FILE:"D:\System\Programs\cvavr2\lib\math.lib" LINE:544

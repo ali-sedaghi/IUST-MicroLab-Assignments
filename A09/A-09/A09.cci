@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:538B1DD0
+NODE:I LEVEL:0 LINE:4 "D:\System\Programs\cvavr2\inc\mega32.h"
+NODE:I LEVEL:0 LINE:5 "D:\System\Programs\cvavr2\inc\alcd.h"
+NODE:I LEVEL:0 LINE:6 "D:\System\Programs\cvavr2\inc\delay.h"
+NODE:I LEVEL:0 LINE:7 "D:\System\Programs\cvavr2\inc\stdio.h"
+NODE:M LEVEL:0 LINE:9 "CR"
+NODE:M LEVEL:0 LINE:10 "LF"
+NODE:F LEVEL:0 LINE:14 "main(void)"
+NODE:F LEVEL:0 LINE:68 "usart_send_string(unsigned char * str)"

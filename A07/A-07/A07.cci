@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:537B5A3A
+NODE:I LEVEL:0 LINE:4 "D:\System\Programs\cvavr2\inc\mega32.h"
+NODE:I LEVEL:0 LINE:5 "D:\System\Programs\cvavr2\inc\alcd.h"
+NODE:I LEVEL:0 LINE:6 "D:\System\Programs\cvavr2\inc\delay.h"
+NODE:F LEVEL:0 LINE:8 "int_to_char(int x)"
+NODE:F LEVEL:0 LINE:12 "put_on_lcd(int value,int c)"
+NODE:M LEVEL:0 LINE:23 "ADC_VREF_TYPE"
+NODE:F LEVEL:0 LINE:26 "read_adc(unsigned char adc_input)"
+NODE:F LEVEL:0 LINE:38 "main(void)"
