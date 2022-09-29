@@ -1,7 +1,7 @@
 # IUST-MicroLab-Assignments
 My solutions to IUST's Microprocessor Laboratory assignments, Fall 2021, Mashhoun
 
-Requirements: Proteus, AVR Studio v4 (A01~A03), CodeVisionAVR v2.05.3 (A04~A12)
+Requirements: Proteus, AVR Studio v4 (A01-A03), CodeVisionAVR v2.05.3 (A04-A12)
 
 Microprocessor: ATmega32
 
